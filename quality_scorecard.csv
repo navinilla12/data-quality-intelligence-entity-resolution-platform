@@ -1,0 +1,32 @@
+column,quality_score
+NPI,100.0
+Ind_PAC_ID,100.0
+Ind_enrl_ID,100.0
+Provider Last Name,100.0
+Provider First Name,100.0
+Provider Middle Name,64.02
+suff,1.22
+gndr,100.0
+Cred,84.06
+Med_sch,100.0
+Grd_yr,99.92
+pri_spec,100.0
+sec_spec_1,11.6
+sec_spec_2,1.23
+sec_spec_3,0.13
+sec_spec_4,0.02
+sec_spec_all,11.6
+Telehlth,23.65
+Facility Name,90.57
+org_pac_id,90.57
+num_org_mem,90.57
+adr_ln_1,99.05
+adr_ln_2,32.22
+ln_2_sprs,6.61
+City/Town,100.0
+State,100.0
+ZIP Code,100.0
+Telephone Number,84.95
+ind_assgn,100.0
+grp_assgn,100.0
+adrs_id,100.0

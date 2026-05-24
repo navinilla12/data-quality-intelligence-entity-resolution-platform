@@ -1,0 +1,32 @@
+column,uniqueness_ratio
+NPI,0.5605
+Ind_PAC_ID,0.5605
+Ind_enrl_ID,0.5939
+Provider Last Name,0.1319
+Provider First Name,0.0434
+Provider Middle Name,0.0208
+suff,0.0
+gndr,0.0
+Cred,0.0
+Med_sch,0.0002
+Grd_yr,0.0
+pri_spec,0.0
+sec_spec_1,0.0
+sec_spec_2,0.0
+sec_spec_3,0.0
+sec_spec_4,0.0
+sec_spec_all,0.0007
+Telehlth,0.0
+Facility Name,0.0289
+org_pac_id,0.0291
+num_org_mem,0.0004
+adr_ln_1,0.09
+adr_ln_2,0.0102
+ln_2_sprs,0.0
+City/Town,0.0068
+State,0.0
+ZIP Code,0.0978
+Telephone Number,0.1022
+ind_assgn,0.0
+grp_assgn,0.0
+adrs_id,0.1351
